@@ -21,7 +21,7 @@ So good night unto you all.
 Give me your hands if we be friends,
 And Robin shall restore amends.
 </pre>
-![Puck](/Puck.jpeg )
+![Puck](/Honestpuck/Honestpuck/blob/master/Puck.jpeg)
 
 By KCBalletMedia - Puck, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=51186698
 <!--
