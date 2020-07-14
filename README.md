@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) presentation and improvements to PatchBot.
 
 ```
-Puck (_to the audience_):
+Puck (to the audience):
 If we shadows have offended,
 Think but this, and all is mended:
 That you have but slumbered here
@@ -12,7 +12,7 @@ And this weak and idle theme,
 No more yielding but a dream,
 Gentles, do not reprehend.
 If you pardon, we will mend.
-And, as I am an *honest Puck,
+And, as I am an honest Puck,
 If we have unearned luck
 Now to scape the serpent's tongue
 We will make amends ere long,
