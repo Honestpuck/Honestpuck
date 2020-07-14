@@ -24,7 +24,7 @@ And Robin shall restore amends.
 
 By KCBalletMedia - Puck, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=51186698
 
-(_Wasted a good hour trying to figure out how to get the picture next to the quotation_)
+(_Wasted a good hour trying to figure out how to get the picture next to the quotation. Gave up while cursing HTML._)
 <!--
 **Honestpuck/Honestpuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
