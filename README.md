@@ -1,6 +1,6 @@
 🔭 I’m currently working on my [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) presentation and improvements to [PatchBot](https://github.com/Honestpuck/PatchBot), a system for zero-touch packaging and patch management for Jamf, and my _magnum opus_ for 2020.
 
-<block style="width: 400px;">
+<table><tr><td>
 <pre>
 Puck <em>(to the audience)</em> :
 If we shadows have offended,
@@ -20,12 +20,12 @@ So good night unto you all.
 Give me your hands if we be friends,
 And Robin shall restore amends.
 </pre>
-</block>
-
+</td>
+<td>
 ![Puck](https://github.com/Honestpuck/Honestpuck/blob/master/Puck.jpeg)
 
 By KCBalletMedia - Puck, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=51186698
-
+</td></tr></table>
 <!--
 **Honestpuck/Honestpuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
