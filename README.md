@@ -21,11 +21,12 @@ Give me your hands if we be friends,
 And Robin shall restore amends.
 </pre>
 </td>
-<td>
+</tr>
+</table>
 ![Puck](https://github.com/Honestpuck/Honestpuck/blob/master/Puck.jpeg)
 
 By KCBalletMedia - Puck, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=51186698
-</td></tr></table>
+
 <!--
 **Honestpuck/Honestpuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
