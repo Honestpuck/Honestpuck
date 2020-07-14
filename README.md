@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my JNUC2020 presentation and improvements to PatchBot.
+- 🔭 I’m currently working on my [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) presentation and improvements to PatchBot.
 
 Puck (_to the audience_):
 ```
