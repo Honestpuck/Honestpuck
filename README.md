@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on my [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) presentation and improvements to PatchBot.
 
-```
-Puck (to the audience):
+<pre>
+Puck <em>(to the audience)</em> :
 If we shadows have offended,
 Think but this, and all is mended:
 That you have but slumbered here
@@ -12,7 +12,7 @@ And this weak and idle theme,
 No more yielding but a dream,
 Gentles, do not reprehend.
 If you pardon, we will mend.
-And, as I am an honest Puck,
+And, as I am an <b>honest Puck</b>✨,
 If we have unearned luck
 Now to scape the serpent's tongue
 We will make amends ere long,
@@ -20,7 +20,8 @@ Else the Puck a liar call.
 So good night unto you all.
 Give me your hands if we be friends,
 And Robin shall restore amends.
-```
+</pre>
+
 <!--
 **Honestpuck/Honestpuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
