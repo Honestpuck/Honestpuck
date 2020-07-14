@@ -21,7 +21,9 @@ So good night unto you all.
 Give me your hands if we be friends,
 And Robin shall restore amends.
 </pre>
-![Puck](/Puck.jpg "By KCBalletMedia - Puck, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=51186698")
+![Puck](/Puck.jpeg )
+
+By KCBalletMedia - Puck, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=51186698
 <!--
 **Honestpuck/Honestpuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
