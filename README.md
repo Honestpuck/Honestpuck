@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) presentation and improvements to PatchBot.
+- 🔭 I’m currently working on my [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) presentation and improvements to [PatchBot](https://github.com/Honestpuck/PatchBot), a system for zero-touch packaging and patch management for Jamf, and my _magnum opus_ for 2020.
 
 <pre>
 Puck <em>(to the audience)</em> :
