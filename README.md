@@ -1,4 +1,6 @@
-🔭 I’m currently working on my [JNUC 2020](https://www.jamf.com/events/jamf-nation-user-conference/2020/) presentation and improvements to [PatchBot](https://github.com/Honestpuck/PatchBot), a system for zero-touch packaging and patch management for Jamf, my _magnum opus_ for 2020.
+🔭 I’m currently working on my [AUC EveryWorld](https://auc.edu.au/everyworld/about/) presentation and improvements to [PatchBot](https://github.com/Honestpuck/PatchBot), a system for zero-touch packaging and patch management for Jamf, my _magnum opus_ for 2020. I could also
+be working on a replacement for the simpler aspects of python-jss, if you think that's a good idea I'm happy to discuss my thoughts, drop me
+a note.
 
 <img align="right" src="https://github.com/Honestpuck/Honestpuck/blob/master/Puck.jpeg" width="400">
 
