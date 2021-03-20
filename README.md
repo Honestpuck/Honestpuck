@@ -1,5 +1,5 @@
 🔭 I’m currently working on improvements to [PatchBot](https://github.com/Honestpuck/PatchBot), a system for zero-touch packaging and patch management for Jamf, my _magnum opus_ for 2020. I am also contributing to [python-jamf](https://github.com/univ-of-utah-marriott-library-apple/python-jamf) a replacement for most of python-jss, if you think that's a good idea I'm happy to discuss my thoughts, drop me
-a note. If you like my work you can [buy me a coffee](https://buymeacoffee/honestpuck)
+a note. If you like my work you can [buy me a coffee](https://buymeacoffee.com/honestpuck)
 
 <img align="right" src="https://github.com/Honestpuck/Honestpuck/blob/master/Puck.jpeg" width="400">
 
