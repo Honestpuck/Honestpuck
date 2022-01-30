@@ -1,6 +1,6 @@
 🔭 I’ve finished improvements to [PatchBot](https://github.com/Honestpuck/PatchBot), a system for zero-touch packaging and patch management for Jamf, my _magnum opus_ for 2020 and shipped v3. I am also contributing to [python-jamf](https://github.com/univ-of-utah-marriott-library-apple/python-jamf) a replacement for most of python-jss, if you think that's a good idea I'm happy to discuss my thoughts, drop me a note. 
 
-I'm also working on a totally new project, scriptorium, a tool to make versioning and editing your Jamf Pro scripts easier that recently went into production. It was the subject of my JNUC2021 presentation.
+I've also built a totally new project, scriptorium, a tool to make versioning and editing your Jamf Pro scripts easier that recently went into production. It was the subject of my JNUC2021 presentation.
 
 If you like my work you can [buy me a coffee](https://buymeacoffee.com/honestpuck)
 
