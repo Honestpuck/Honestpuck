@@ -4,6 +4,8 @@ I've also built a totally new project, [scriptorium](https://github.com/Honestpu
 
 If you like my work you can [buy me a coffee](https://buymeacoffee.com/honestpuck)
 
+I am currently looking for a new job. You can find [my CV here](https://github.com/Honestpuck/Honestpuck/blob/master/Tony%20Williams%202023.pdf).
+
 <img align="right" src="https://github.com/Honestpuck/Honestpuck/blob/master/Puck.jpeg" width="400">
 
 <pre>
