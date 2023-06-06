@@ -28,7 +28,6 @@ Give me your hands if we be friends,
 And Robin shall restore amends.
 </pre>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=honestpuck.github.page.id)
 <!--
 **Honestpuck/Honestpuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
