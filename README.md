@@ -1,8 +1,8 @@
-🔭 I’ve finished improvements to [PatchBot](https://github.com/Honestpuck/PatchBot), a system for zero-touch packaging and patch management for Jamf, my _magnum opus_ for 2020 and shipped v3.
+🔭 My project [PatchBot](https://github.com/Honestpuck/PatchBot), a system for zero-touch packaging and patch management for Jamf, my _magnum opus_ for 2020 is no longer under active development. A total rewrite may emerge from testing.
 
-I've also built a totally new project, [scriptorium](https://github.com/Honestpuck/scriptorium), a tool to make versioning and editing your Jamf Pro scripts easier that recently went into production. It was the subject of my JNUC2021 presentation.
+I've also built [scriptorium](https://github.com/Honestpuck/scriptorium), a tool to make versioning and editing your Jamf Pro scripts easier. It was the subject of my JNUC2021 presentation. Work on adding extension atrributes is ongoing.
 
-There is some work here on using the NIST tool set to enforce security benchmarks, (https://github.com/Honestpuck/NIST-macos-security-HOWTO) which was the subject of my presentation at JNUC 2022.
+There is some work here on using the NIST tool set to enforce security benchmarks, (https://github.com/Honestpuck/NIST-macos-security-HOWTO) which was the subject of my presentation at JNUC 2022. Edits are ongoing.
 
 If you like my work you can [buy me a coffee](https://buymeacoffee.com/honestpuck)
 
