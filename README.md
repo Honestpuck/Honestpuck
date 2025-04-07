@@ -1,6 +1,17 @@
+### April 2025
+
+I was retrenched from my last position so I am looking for a new one.
+
+My CV is right here at [Tony Williams CV 2025](https://github.com/Honestpuck/Honestpuck/blob/master/Tony-Williams-CV-2025-02.pdf).
+
+You can see me on Linked In [here](https://www.linkedin.com/in/honestpuck/).
+
+My blog is [here](https://macintoshguy.wordpress.com/)
+.
+
 🔭 My project [PatchBot](https://github.com/Honestpuck/PatchBot), a system for zero-touch packaging and patch management for Jamf, my _magnum opus_ for 2020 is no longer under active development. A total rewrite may emerge from testing.
 
-I've also built [scriptorium](https://github.com/Honestpuck/scriptorium), a tool to make versioning and editing your Jamf Pro scripts easier. It was the subject of my JNUC2021 presentation. Work on adding extension atrributes is ongoing.
+I've also built [scriptorium](https://github.com/Honestpuck/scriptorium), a tool to make versioning and editing your Jamf Pro scripts easier. It was the subject of my JNUC2021 presentation. There is a rewrite of the system currently under way.
 
 There is some work here on using the NIST tool set to enforce security benchmarks, (https://github.com/Honestpuck/NIST-macos-security-HOWTO) which was the subject of my presentation at JNUC 2022. Edits are ongoing.
 
