@@ -1,6 +1,6 @@
 ### April 2025
 
-I was retrenched from my last position so I am looking for a new one.
+I am now working for CSIRO.
 
 My CV is right here at [Tony Williams CV 2025](https://github.com/Honestpuck/Honestpuck/blob/master/Tony-Williams-CV-2025-02.pdf).
 
